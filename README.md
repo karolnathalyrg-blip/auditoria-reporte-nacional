@@ -85,4 +85,4 @@ auditoria-reporte-nacional/
 **Karol Nathaly Romero González**  
 Profesional en Monitoreo, Seguimiento, Evaluación y Análisis de Datos | Especialista en Big Data
 
-[![LinkedIn](www.linkedin.com/in/karol-nathaly-romero-gonzález-a8a180166)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karol%20Nathaly%20Romero-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karol-nathaly-romero-gonz%C3%A1lez-a8a180166/)
