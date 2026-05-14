@@ -7,8 +7,6 @@ Mejorar la calidad de los datos, detectar inconsistencias y errores de manera r√
 
 ## Uso
 1. Ejecutar el script Python:
+
 ```bash
 python auditoria_reporte_nacional.py
-
-## Flujograma del proceso
-![Flujograma](Imagen1.png)
